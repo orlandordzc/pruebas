@@ -8,4 +8,4 @@ Manhattan es un proyecto desarrollado para la asignatura de Fundamentos de Ingen
 - Bryan Emmanuel Cetzal Ceme [@BryanCetzal](https://github.com/BryanCetzal "Clic Aquí").
 - Daniel García Cetina [@Daniel-Garcia-C](https://github.com/Daniel-Garcia-C "Clic Aquí").
 - Ian Aguilar Ramirez [@IanAR7](https://github.com/@IanAR7 "Clic Aquí").
-- Libni Merari Castillo Vallejos [LIBNICASTILLO](https://github.com/LIBNICASTILLO "Clic Aquí").
+- Libni Merari Castillo Vallejos [@LIBNICASTILLO](https://github.com/LIBNICASTILLO "Clic Aquí").
