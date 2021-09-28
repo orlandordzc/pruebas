@@ -7,7 +7,7 @@ Manhattan es un proyecto desarrollado para la asignatura de Fundamentos de Ingen
 - Adjany Armenta Aguilar [@AdjanyArmenta](https://github.com/AdjanyArmenta "Click Aquí")
 - Bryan Emmanuel Cetzal Ceme [@BryanCetzal](https://github.com/BryanCetzal "Click Aquí")
 - Daniel García Cetina [@Daniel-Garcia-C](https://github.com/Daniel-Garcia-C "Click Aquí")
-- Ian Aguilar Ramirez [@IanAR7](https://github.com/@IanAR7 "Click Aquí")
+- Ian Aguilar Ramirez [@IanAR7](https://github.com/IanAR7 "Click Aquí")
 - Libni Merari Castillo Vallejos [@LibniCastillo](https://github.com/Libnicastillo "Click Aquí")
 
 ## Descripción
@@ -24,4 +24,6 @@ Nuestro proyecto pretende que las tareas del departamento de Recursos Financiero
 ## Bitacoras de las sesiones
 
 > - [22 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan "Click Aquí")
+> - [23 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan "Click Aquí")
+> - [28 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan "Click Aquí")
 
