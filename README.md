@@ -16,7 +16,6 @@ Manhattan es un proyecto desarrollado para la asignatura de Fundamentos de Ingen
 - [Requerimientos](./)
 - [Suscribirse al proyecto](https://github.com/AbrahamXTS/Manhattan/subscription)
 
-
 ## Usuarios
 
 Nuestro proyecto pretende que las tareas del departamento de Recursos Financieros y Materiales de la escuela [Cecati 50](https://www.facebook.com/Cecati50/ "Click Aquí") se vuelvan un proceso automatizado y sencillo a través de un software a la medida.
@@ -26,4 +25,3 @@ Nuestro proyecto pretende que las tareas del departamento de Recursos Financiero
 > - [22 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan "Click Aquí")
 > - [23 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan "Click Aquí")
 > - [28 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan "Click Aquí")
-
