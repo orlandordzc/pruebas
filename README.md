@@ -13,7 +13,7 @@ Manhattan es un proyecto desarrollado para la asignatura de Fundamentos de Ingen
 ## Descripción
 
 - [Documentación](./)
-- [Requerimientos](./)
+- [Requerimientos](https://github.com/AbrahamXTS/Manhattan/blob/first-sprint/First-Sprint/Artefactos/Requerimientos.pdf "Click Aquí")
 - [Suscribirse al proyecto](https://github.com/AbrahamXTS/Manhattan/subscription)
 
 ## Usuarios
@@ -25,4 +25,5 @@ Nuestro proyecto pretende que las tareas del departamento de Recursos Financiero
 > - [22 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan/blob/first-sprint/First-Sprint/Bitacoras/22%20sep%202021.md "Click Aquí")
 > - [23 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan/blob/first-sprint/First-Sprint/Bitacoras/23%20sep%202021.md "Click Aquí")
 > - [28 de Septiembre del 2021](https://github.com/AbrahamXTS/Manhattan/blob/first-sprint/First-Sprint/Bitacoras/28%20sep%202021.md "Click Aquí")
-> - [01 de Octubre del 2021](https://github.com/AbrahamXTS/Manhattan/blob/first-sprint/First-Sprint/Bitacoras/01%20oct%2021.md "Click Aquí")
+> - [01 de Octubre del 2021](https://github.com/AbrahamXTS/Manhattan/blob/first-sprint/First-Sprint/Bitacoras/01%20oct%202021.md "Click Aquí")
+> - [08 de Octubre del 2021](https://github.com/AbrahamXTS/Manhattan/blob/first-sprint/First-Sprint/Bitacoras/08%20oct%202021.md "Click Aquí")
