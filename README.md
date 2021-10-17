@@ -1,6 +1,15 @@
-# Manhattan
+<style>
+  .logo {
+    border-radius: 7%;
+    height: 175px;
+}
+</style>
 
-Manhattan es un proyecto desarrollado para la asignatura de Fundamentos de Ingeniería de Software. 👨‍💻
+<p align="center">
+    <img class="logo" src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" />
+</p>
+
+---
 
 ## Equipo
 
@@ -34,6 +43,11 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 - Decidimos centrarnos en que los requisitos del sistema a implementar sean lo más preciso posibles, reemplazando así el uso de las historias de usuario.
 - Se llevará a cabo una sesión de revisión del avance cada viernes por la noche. Esta solo será como parte de un control de calidad, no marca el fin de un sprint.
 - El cliente no formará parte del proceso de desarrollo debido a la discrepancia de tiempos, no obstante, la comunicación será de manera constante a través de WhatsApp.
+
+### Más detalles:
+
+- [Proceso de desarrollo](./First-Sprint/Documentacion/Proceso%20de%20desarrollo.md "Ir a la documentacion")
+- [Nuestro tracker de contribuciones](./First-Sprint/Artefactos/Tracker%20de%20contribucion "Ir al tracker")
 
 ## Bitácoras de las sesiones
 
