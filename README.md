@@ -1,12 +1,7 @@
-<style>
-  .logo {
-    border-radius: 7%;
-    height: 175px;
-}
-</style>
+---
 
 <p align="center">
-    <img class="logo" src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" />
+    <img src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" height="230px" />
 </p>
 
 ---
