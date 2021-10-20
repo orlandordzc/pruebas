@@ -1,5 +1,10 @@
 # Proceso de desarrollo
 
+
+<p>
+    <img src="https://i.imgur.com/I5HiukV.png" alt="Manhattan" height="510px" />
+</p>
+
 ### Roles de Scrum
 
 - **Product owner:** El Product Owner es el encargado de optimizar y maximizar el valor del producto. Es fundamental su labor como interlocutor con los stakeholders y sponsors del proyecto, así como su faceta de altavoz de las peticiones y requerimientos de los clientes.
