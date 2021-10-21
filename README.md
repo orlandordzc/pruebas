@@ -55,3 +55,7 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 > - [08 de Octubre del 2021](./First-Sprint/Bitacoras/08%20oct%202021.md "Click Aquí")
 > - [11 de Octubre del 2021](./First-Sprint/Bitacoras/11%20oct%202021.md "Click Aquí")
 > - [15 de Octubre del 2021](./First-Sprint/Bitacoras/15%20oct%202021.md "Click Aquí")
+
+[Presentación de la primera entrega](./First-Sprint/Artefactos/Presentaciones/Presentación%20de%20la%20entrega%201%20-%20Manhattan.pdf  "Click Aquí")
+
+#### Segundo Sprint
