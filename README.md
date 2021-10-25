@@ -1,7 +1,10 @@
 ---
 <p align="center">
+
 <img src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" height="230px" />
+
 </p>
+
 ---
 
 ## Equipo
@@ -62,3 +65,5 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 - [Presentación](https://youtu.be/0_UjqLKuN0Q "Click Aquí")
 
 ---
+
+### Segundo Sprint
