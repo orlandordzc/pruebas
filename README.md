@@ -4,7 +4,6 @@
 <img src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" height="230px" />
 
 </p>
-
 ---
 
 ## Equipo
@@ -43,7 +42,7 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 ### Más detalles:
 
 - [Proceso de desarrollo](./First-Sprint/Documentacion/Proceso%20de%20desarrollo.md "Ir a la documentacion")
-- [Nuestro tracker de contribuciones](./First-Sprint/Artefactos/Tracker%20de%20contribucion "Ir al tracker")
+- [Nuestro tracker de contribuciones](./Second-Sprint/Artefactos/Tracker%20de%20contribucion "Ir al tracker")
 
 ## Bitácoras de las sesiones
 
@@ -67,3 +66,14 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 ---
 
 ### Segundo Sprint
+
+> - [25 de Octubre del 2021](./Second-Sprint/Bitacoras/25%20oct%202021.md "Click Aquí")
+> - [05 de Noviembre del 2021](./Second-Sprint/Bitacoras/05%20nov%202021.md "Click Aquí")
+
+### Segunda entrega:
+
+- [Diapositiva](./Second-Sprint/Artefactos/Presentaciones/ "Click Aquí")
+
+- [Presentación](https://youtu.be/ "Click Aquí")
+
+---
