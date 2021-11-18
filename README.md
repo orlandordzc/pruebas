@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" height="230px" />
 
 </p>
+
 ---
 
 ## Equipo
@@ -72,8 +73,8 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 
 ### Segunda entrega:
 
-- [Diapositiva](./Second-Sprint/Artefactos/Presentaciones/ "Click Aquí")
+- [Diapositiva](./Second-Sprint/Artefactos/Presentaciones/Presentación%20de%20la%20entrega%202%20-%20Manhattan.pdf "Click Aquí")
 
-- [Presentación](https://youtu.be/ "Click Aquí")
+- [Presentación](https://youtu.be/2jG4EkSPQZg "Click Aquí")
 
 ---
