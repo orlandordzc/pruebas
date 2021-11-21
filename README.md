@@ -69,12 +69,16 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 ### Segundo Sprint
 
 > - [25 de Octubre del 2021](./Second-Sprint/Bitacoras/25%20oct%202021.md "Click Aquí")
+> - [29 de Octubre del 2021](./Second-Sprint/Bitacoras/29%20oct%202021.md "Click Aquí")
 > - [05 de Noviembre del 2021](./Second-Sprint/Bitacoras/05%20nov%202021.md "Click Aquí")
+> - [12 de Noviembre del 2021](./Second-Sprint/Bitacoras/12%20nov%202021.md "Click Aquí")
+> - [17 de Noviembre del 2021](./Second-Sprint/Bitacoras/17%20nov%202021.md "Click Aquí")
+
 
 ### Segunda entrega:
 
 - [Diapositiva](./Second-Sprint/Artefactos/Presentaciones/Presentación%20de%20la%20entrega%202%20-%20Manhattan.pdf "Click Aquí")
 
-- [Presentación](https://youtu.be/2jG4EkSPQZg "Click Aquí")
+- [Presentación](https://youtu.be/rSwtpqKwbzQ "Click Aquí")
 
 ---
