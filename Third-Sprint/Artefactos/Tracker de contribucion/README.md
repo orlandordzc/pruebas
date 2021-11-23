@@ -6,8 +6,8 @@
     <img class="formato" src="https://i.imgur.com/X917zIf.png" alt="Manhattan"/>
 </p>
 
-# Segundo sprint
+# Tercer sprint
 
 <p align="center">
-    <img class="formato" src="https://i.imgur.com/dFHkiPE.png" alt="Manhattan"/>
+    <img class="formato" src="" alt="Manhattan"/>
 </p>
