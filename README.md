@@ -13,7 +13,7 @@
 - Bryan Emmanuel Cetzal Ceme [@BryanCetzal](https://github.com/BryanCetzal "Click Aquí")
 - Daniel García Cetina [@Daniel-Garcia-C](https://github.com/Daniel-Garcia-C "Click Aquí")
 - Ian Aguilar Ramirez [@IanAR7](https://github.com/IanAR7 "Click Aquí")
-- Libni Merari Castillo Vallejos [@LibniCastillo](https://github.com/Libnicastillo "Click Aquí")
+
 
 ## Objetivo
 
@@ -84,10 +84,10 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 ### Tercer sprint
 
 > - [22 de Noviembre de 2021](./Third-Sprint/Bitacoras/22%20nov%202021.md "Click Aquí")
-> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
-> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
-> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
-> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
+> - [24 de Noviembre de 2021](./Third-Sprint/Bitacoras/24%20nov%202021.md "Click Aquí")
+> - [26 de Noviembre de 2021](./Third-Sprint/Bitacoras/26%20nov%202021.md "Click Aquí")
+> - [29 de Noviembre de 2021](./Third-Sprint/Bitacoras/29%20nov%202021.md "Click Aquí")
+> - [03 de Diciembre de 2021](./Third-Sprint/Bitacoras/03%20dic%202021.md "Click Aquí")
 
 ### Tercera entrega:
 
