@@ -9,5 +9,5 @@
 # Tercer sprint
 
 <p align="center">
-    <img class="formato" src="" alt="Manhattan"/>
+    <img class="formato" src="https://i.imgur.com/l4OM4gw.jpg" alt="Manhattan"/>
 </p>

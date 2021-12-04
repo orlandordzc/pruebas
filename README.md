@@ -1,8 +1,7 @@
 ---
+
 <p align="center">
-
-<img src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" height="230px" />
-
+<img src="https://i.imgur.com/KrNCpHP.png" alt="Manhattan" height="230px" />
 </p>
 
 ---
@@ -74,7 +73,6 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 > - [12 de Noviembre del 2021](./Second-Sprint/Bitacoras/12%20nov%202021.md "Click Aquí")
 > - [17 de Noviembre del 2021](./Second-Sprint/Bitacoras/17%20nov%202021.md "Click Aquí")
 
-
 ### Segunda entrega:
 
 - [Diapositiva](./Second-Sprint/Artefactos/Presentaciones/Presentación%20de%20la%20entrega%202%20-%20Manhattan.pdf "Click Aquí")
@@ -82,3 +80,17 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 - [Presentación](https://youtu.be/rSwtpqKwbzQ "Click Aquí")
 
 ---
+
+### Tercer sprint
+
+> - [22 de Noviembre de 2021](./Third-Sprint/Bitacoras/22%20nov%202021.md "Click Aquí")
+> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
+> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
+> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
+> - [](./Third-Sprint/Bitacoras/ "Click Aquí")
+
+### Tercera entrega:
+
+- [Diapositiva](./Second-Sprint/Artefactos/Presentaciones/Presentación%20de%20la%20entrega%203%20-%20Manhattan.pdf "Click Aquí")
+
+- [Presentación](https:// "Click Aquí")
