@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-<img src="https://i.imgur.com/KrNCpHP.png" alt="Manhattan" height="230px" />
+<img src="https://i.imgur.com/tHzY8ze.png" alt="Manhattan" height="230px" />
 </p>
 
 ---
