@@ -42,7 +42,7 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 ### Más detalles:
 
 - [Proceso de desarrollo](./First-Sprint/Documentacion/Proceso%20de%20desarrollo.md "Ir a la documentacion")
-- [Nuestro tracker de contribuciones](./Second-Sprint/Artefactos/Tracker%20de%20contribucion "Ir al tracker")
+- [Nuestro tracker de contribuciones](./Third-Sprint/Artefactos/Tracker%20de%20contribucion "Ir al tracker")
 
 ## Bitácoras de las sesiones
 
@@ -93,4 +93,4 @@ En busca de gestionar los avances y las actividades de una forma óptima, el pro
 
 - [Diapositiva](./Second-Sprint/Artefactos/Presentaciones/Presentación%20de%20la%20entrega%203%20-%20Manhattan.pdf "Click Aquí")
 
-- [Presentación](https:// "Click Aquí")
+- [Presentación](https://www.youtube.com/watch?v=EP7OC8gC490&ab_channel=AdjanyA "Click Aquí")
