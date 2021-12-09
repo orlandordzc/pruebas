@@ -1,0 +1,7 @@
+## Critica del curso
+
+En el curso de fundamentos de ingeniería de software, se destaca la colaboración con la UMT en la elaboración del proyecto, debido a la pandemia, el trabajo se volvió virtual en su gran mayoría, y pudimos experimentar esa parte de ponernos de acuerdo con gente que no conocíamos, pero teníamos una meta en común, se aplicaron los temas vistos en clases y se pudieron compartir ideas de acuerdo a los perfiles de cada estudiante, los equipos fueron creados de acuerdo a las necesidades de cada líder de equipo, y esa actividad fue una de las más interesantes ya que se asemeja a un mundo laboral. 
+
+Una de las cosas que más sirvió para el aprendizaje de la asignatura es la lectura de los archivos y las preguntas en sesión, ya que, permitía mejorar nuestros conocimientos y aprender términos o la parte técnica de la materia.  Aunque se sugiere el uso de otro tipo de actividades entre clases para aplicar lo leído, es decir, no solo lectura y preguntas. 
+
+Las conferencias que se impartían fueron de gran ayuda para comprender y conocer lo que podemos realizar en un futuro como ingenieros de software, en estas, nosotros como estudiantes podíamos visualizar si es realmente lo que queremos hacer en nuestra vida, es algo de mucha utilidad en nuestro primer semestre y se valora de manera positiva. 
