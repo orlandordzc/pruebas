@@ -14,6 +14,7 @@
 - Daniel García Cetina [@Daniel-Garcia-C](https://github.com/Daniel-Garcia-C "Click Aquí")
 - Ian Aguilar Ramirez [@IanAR7](https://github.com/IanAR7 "Click Aquí")
 
+- [Bitacoras](./Bitacoras "Click Aquí")
 
 ## Objetivo
 
